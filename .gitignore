@@ -1,0 +1,15 @@
+# Python-specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment directory
+venv/
+.venv/
+
+# IDE and OS-specific files
+.idea/  # For PyCharm or IntelliJ
+.vscode/ # For Visual Studio Code
+.DS_Store # macOS system files
+Thumbs.db # Windows system files
